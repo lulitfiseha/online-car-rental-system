@@ -1,2 +1,4 @@
 # online-car-rental-system
-this website is created using html and css that register users and provide a online system that a user can rent a car that he likes online
+this website is created using html,css and javascript that register users and provide a online system that a user can rent a car that he likes online
+this system contains 7 html pages 1 css and 1 javascript pages 
+the first page is home page which a user see when he logged in the second page is steps which show our customers the steps he need to follow in order to rent a car the third page is services which contain the cars we have their models the year which they manifuctured and also their prices the fourth page is about us which tells our customers about our companies the fifth and the page is review us which enables our customers to give their feedbacks we have also signin and signup page if the user is new he need to sign up in order to rent a car if the customer have already signed in he can logged in to the website then we have css page which used to style our html pages nad also we have java script that used to valid our login page
