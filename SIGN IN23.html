@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>sign-in</title>
+    <link rel="stylesheet" href="style.css" />
+    <script type="text/script" src="function validateForm() {.js"></script>
+  </head>
+  <body>
+    <form name="sign-in" onsubmit="return validateForm()" class="form1">
+      <div class="input-control">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" /><br />
+        <div class="incorrect-message" id="username-incorrect"></div>
+      </div>
+
+      <div class="input-control">
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" /><br />
+        <div class="error-message" id="password-error"></div>
+      </div>
+
+      <input type="submit" value="Sign in" class="button" />
+    </form>
+  </body>
+</html>
